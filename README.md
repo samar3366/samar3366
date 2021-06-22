@@ -26,8 +26,3 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <img align="left" alt="Satheesh Valluru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samar3366&show_icons=true&hide_border=true" />
-
-[website]: https://sateesh2020.github.io
-[twitter]: https://twitter.com/SmartSateesh
-[instagram]: https://www.instagram.com/satheeshsmart9
-[linkedin]: https://www.linkedin.com/in/satheeshvalluru/

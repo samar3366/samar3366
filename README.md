@@ -20,6 +20,7 @@ My name is Sumanth Reddy and i'm a full-stack developer. I am from Hyderabad, In
 ## GitHub Stats:
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samar3366&show_icons=true&locale=en&layout=compact&theme=vue" alt="Sumanth Reddy" /></p>
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samar3366&locale=en&layout=compact&theme=vue" alt="Sumanth Reddy" /></p>
 <br />
 <img align="left" alt="Sumanth Reddy" src="https://github-readme-stats.vercel.app/api?username=samar3366&show_icons=true&locale=en&layout=compact&theme=vue" />

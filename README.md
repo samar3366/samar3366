@@ -1,17 +1,11 @@
-- 👋 Hi, I’m @samar3366
+# 👋 Hi There 
+
+My name is Sumanth Reddy and i'm a full-stack developer. I am from Hyderabad, India. You can reach me at [LinkedIn](https://www.linkedin.com/in/sum-123/).
 - 🔭 I’m currently working at Compliance Group, Inc.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript, Node, React, Python, NLP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in developing technical solutions for most common scenarios.
+- 🌱 I’m currently learning JavaScript, Node, React, Python, NLP.
 
-<!---
-samar3366/samar3366 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -21,12 +15,12 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+- currently working on ...
 
-
-### GitHub Stats:
+## GitHub Stats:
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samar3366&show_icons=true&locale=en&layout=compact&theme=vue" alt="Sumanth Reddy" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samar3366&locale=en&layout=compact&theme=vue" alt="Sumanth Reddy" /></p>
 <br />
-<img align="left" alt="Sumanth Reddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samar3366&show_icons=true&locale=en&layout=compact&theme=vue" />
+<img align="left" alt="Sumanth Reddy" src="https://github-readme-stats.vercel.app/api?username=samar3366&show_icons=true&locale=en&layout=compact&theme=vue" />
 

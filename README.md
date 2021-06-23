@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @samar3366
+- 🔭 I’m currently working at Compliance Group, Inc.
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JavaScript, Node, React, Python, NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -21,8 +22,11 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+
+### GitHub Stats:
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samar3366&show_icons=true&locale=en&layout=compact&theme=vue" alt="Sumanth Reddy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samar3366&locale=en&layout=compact&theme=vue" alt="Sumanth Reddy" /></p>
 <br />
+<img align="left" alt="Sumanth Reddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samar3366&show_icons=true&locale=en&layout=compact&theme=vue" />
 
----
-
-<img align="left" alt="Satheesh Valluru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samar3366&show_icons=true&hide_border=true" />
